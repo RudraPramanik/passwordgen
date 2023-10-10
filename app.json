@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "passwordgen",
-    "slug": "passwordgen",
+    "name": "passgen",
+    "slug": "passgen",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
